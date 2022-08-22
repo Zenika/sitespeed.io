@@ -2,9 +2,12 @@
 node_modules
 *.log
 *.iml
-.vscode
 sitespeed-result
 configs
 docs/_site
 yarn.lock
 .tern-project
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
